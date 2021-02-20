@@ -1,3 +1,5 @@
+//By Esther Akerewusi
+
 import requests
 from gpiozero import MotionSensor
 from picamera import PiCamera
